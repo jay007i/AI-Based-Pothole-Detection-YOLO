@@ -112,7 +112,7 @@ with st.sidebar:
     # Custom footer
     st.markdown("""
     <div class="footer">
-        <p>© 2025 AI Pothole Detection System</p>
+        <p>© 2026 AI Pothole Detection System</p>
         <p>Built with YOLOv11 and Streamlit</p>
     </div>
     """, unsafe_allow_html=True)
@@ -362,6 +362,6 @@ with st.expander("ℹ️ About this System"):
 # Footer
 st.markdown("""
 <div class="footer">
-    <p>© 2025 AI Pothole Detection System</p>
+    <p>© 2026 AI Pothole Detection System</p>
 </div>
 """, unsafe_allow_html=True)

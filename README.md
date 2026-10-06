@@ -60,7 +60,7 @@ This project aims to improve road safety and optimize maintenance workflows by i
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/arul0076/pothole-detection-yolov11-streamlit.git
+git clone <repository-url>
 cd pothole-detection-yolov11-streamlit
 pip install -r requirements.txt
 ```
@@ -114,13 +114,7 @@ Upload an image or video, or use your phone camera to start detecting potholes!
 
 ---
 
-## 🤝 Contributors
 
-- **Arul Palaniappa S**  
-- **Azarudeen B**  
-- **Balaji C**
-
----
 
 ## 📜 License
 
